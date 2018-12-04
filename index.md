@@ -1,7 +1,7 @@
 ---
 layout: frontpage
 title: Niketan Pansare
-description: Karl Broman is Professor in Biostatistics and Medical Informatics at University of Wisconsin - Madison; research in statistical genetics
+description: Niketan Pansare is a Senior Software Engineer at IBM Research Almaden.
 keywords: Niketan, Pansare, Deep Learning, Apache, SystemML, Spark
 ---
 
