@@ -6,10 +6,12 @@ description: Niketan Pansare's services and awards
 
 ### Recent Service
 
-1. Conference reviewer: IEEE BigData 2015, VLDB 2016, IEEE BigData 2016, VLDB 2018, VLDB 2019, CoDS COMAD 2019, EDBT 2019, SIGMOD 2019.
-2. Local Arrangements Chair for SOCC 2019.
+
+1. Program committee member:  VLDB 2018, CoDS COMAD 2019, EDBT 2019 (industry), SIGMOD 2019 (demo), TKDE 2019
+2. Local Arrangements Chair: [SOCC 2019](https://acmsocc.github.io/2019/officers.html)
 3. Apache Software Foundation Project Management Committee (PMC) Member
-4. President of Rice Computer Science Graduate Student Association (CS GSA) - 2013-14
+4. Guest reviewer: IEEE BigData 2015, VLDB 2016, IEEE BigData 2016, VLDB 2019
+5. President of Rice Computer Science Graduate Student Association (CS GSA) - 2013-14
 
 ### Awards
 
